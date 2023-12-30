@@ -1,0 +1,12 @@
+{
+  "name": "wwm-uaudio",
+  "version": "1.0.0",
+  "description": "Audio repo for WWM Projects",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node -e 'require(\"./index\").update()'"
+  },
+  "author": "WWM",
+  "license": "MIT"
+}
